@@ -22,3 +22,7 @@ This for adding games or apps on your PSN profile account, I'll update it whenev
 - Wait until it kicks you out
 - Now check if it worked for you on PS App or another console
 # If it didn't work it's just you selected wrong account ID in Apollo
+
+- Example
+https://github.com/lI-Isekai-Il/PSN-PlayedGames/blob/main/Examplee.jpg
+https://github.com/lI-Isekai-Il/PSN-PlayedGames/blob/main/Example.jpg
