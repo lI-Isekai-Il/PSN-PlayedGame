@@ -24,5 +24,5 @@ This for adding games or apps on your PSN profile account, I'll update it whenev
 # If it didn't work it's just you selected wrong account ID in Apollo
 
 - Example
-https://github.com/lI-Isekai-Il/PSN-PlayedGames/blob/main/Examplee.jpg
-https://github.com/lI-Isekai-Il/PSN-PlayedGames/blob/main/Example.jpg
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/4022835c-641f-4047-9bd0-0c44498de232" />
+<img width="2425" height="1364" alt="image" src="https://github.com/user-attachments/assets/91921a46-bdbf-48d0-99cb-141fc867fd27" />
