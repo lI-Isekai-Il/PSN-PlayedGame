@@ -17,6 +17,7 @@ This for adding games or apps on your PSN profile account, I'll update it whenev
 - Activate NP Debug
 - NP Environment must be "np"
 - Restart the console
+- Contact to WI-FI 
 - Install the fpkg 
 - After installing run the fpkg
 - Wait until it kicks you out
