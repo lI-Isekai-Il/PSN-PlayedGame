@@ -1,5 +1,23 @@
 # PSN-PlayedGame
 I'm not founder, probably someone else, this for adding games or apps on your PSN profile account, I'll update it whenever I feel free
 
+# Requirements
+- PS4 Jailbreaked
+- USB Driver
+- Apollo installed on PS4 jb
 # Steps
-- fir
+- Take a PS4 game save backup for the account you want to do for it from non-jailbreaked console to your usb driver 
+- put the fpkg in the usb driver next to PS4 folder
+- Run Apollo on PS4 jb
+- Select User save tools
+- Select the account that you took a backup save for it 
+- Enable Debug settings
+- Head over to Debug settings then Playstation Network settings 
+- Activate NP Debug
+- NP Environment must be "np"
+- Restart the console
+- Install the fpkg 
+- After installing run the fpkg
+- Wait until it kicks you out
+- Now check if it worked for you on PS App or another console
+# If it didn't work it's just you selected wrong account ID in Apollo
