@@ -1,5 +1,6 @@
 # PSN-PlayedGame
-I'm not founder, probably someone else, this for adding games or apps on your PSN profile account, I'll update it whenever I feel free
+I'm not founder, probably someone else, If you know them or you're found tell me 
+This for adding games or apps on your PSN profile account, I'll update it whenever I feel free
 
 # Requirements
 - PS4 Jailbreaked
