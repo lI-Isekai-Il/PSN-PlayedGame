@@ -9,15 +9,15 @@ This for adding games or apps on your PSN profile account, I'll update it whenev
 # Steps
 - Take a PS4 game save backup for the account you want to do for it from non-jailbreaked console to your usb driver 
 - put the fpkg in the usb driver next to PS4 folder
+- On PS4JB Enable Debug settings 
 - Run Apollo on PS4 jb
 - Select User save tools
-- Select the account that you took a backup save for it 
-- Enable Debug settings
+- Select/write the account ID that you took a backup save for it you can see the ID in "D:\PS4\SAVEDATA\**95t535329d58a**
 - Head over to Debug settings then Playstation Network settings 
 - Activate NP Debug
 - NP Environment must be "np"
 - Restart the console
-- Contact to WI-FI 
+- Contact to normal WI-FI 
 - Install the fpkg 
 - After installing run the fpkg
 - Wait until it kicks you out
