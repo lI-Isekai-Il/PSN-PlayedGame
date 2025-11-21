@@ -12,7 +12,7 @@ This for adding games or apps on your PSN profile account, I'll update it whenev
 - On PS4JB Enable Debug settings 
 - Run Apollo on PS4 jb
 - Select User save tools
-- Select/write the account ID that you took a backup save for it you can see the ID in "D:\PS4\SAVEDATA\**95t535329d58a**
+- Select/write the account ID that you took a backup save for it you can see the ID in "D:\PS4\SAVEDATA\*95t535329d58a*" 
 - Head over to Debug settings then Playstation Network settings 
 - Activate NP Debug
 - NP Environment must be "np"
