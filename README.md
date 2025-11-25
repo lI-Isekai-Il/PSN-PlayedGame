@@ -1,6 +1,6 @@
 # PSN-PlayedGame
 
-I'm not founder, probably someone else, If you know them or you're the foundee tell me, to add the credits to you
+I'm not founder, probably someone else, If you know them or you're the founder tell me, to add the credits to you
 This for adding games or apps on your PSN profile account, I'll update it whenever I feel free
 
 # Requirements
@@ -11,24 +11,25 @@ This for adding games or apps on your PSN profile account, I'll update it whenev
 
 # Steps
 
+- The most simple way get the account ID from PSN-Checker tools or some websites and convert it to Hex (If you don't know any of them do the manual way below)
+
 - Take a PS4 game save backup for the account you want to do for it from non-jailbreaked console to your usb driver 
 - put the fpkg in the usb driver next to PS4 folder
 - On PS4JB Enable Debug settings 
 - Run Apollo on PS4 jb
 - Select User save tools
 - Select/write the account ID that you took a backup save for it you can see the ID in "D:\PS4\SAVEDATA\*95t535329d58a*" 
-
-- or in the most simple way get the account id from PSN-Checker tools or some websites and convert it to Hex
-
-- Head over to Debug settings then Playstation Network settings 
+- Head over to Debug settings then Playstation Network settings
 - Activate NP Debug
 - NP Environment must be "np"
 - Restart the console
-- Contact to normal WI-FI 
-- Install the fpkg 
-- After installing run the fpkg
+- Contact to normal WI-FI or Ethernet (Needed to update the account)
+- Install the fPKG
+- After installing run the fPKG
 - Wait until it kicks you out
-- Now check if it worked for you on PS App or another console
+- Now check if it worked for you on PS App or another retail console
+
+
 # If it didn't work it's just you selected wrong account ID in Apollo
 
 - Example
